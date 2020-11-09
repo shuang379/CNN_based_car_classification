@@ -19,7 +19,7 @@ To improve the performance and ability of the models to generalize, I applied im
 
 Augmented images look like below:
 
-![](D:\Documents\Projects\CNN_based_car_classification\project_github\images\augmentation.png)
+![](images/augmentation.png)
 
 ## Models
 
