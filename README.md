@@ -22,8 +22,7 @@ To improve the performance and ability of the models to generalize, I applied im
 
 Augmented images look like below:
 
-![](images\augmentation.png)
-
+![](images/augmentation.png)
 ## Models
 
 Three popular pre-trained models, in **PyTorch**, were used in this project, including: AlexNet, VGG19 and ResNet34. Here are the inspirations to choose these models:
